@@ -1,0 +1,15 @@
+FUNDAMENTALS OF THREAT HUNTING
+
+What is Threat Hunting : Threat Hunting is where people will be searching proactively for cyber threats that are present/hidden in the network. 
+
+Threat Hunters will be closing working with all blue teamers like Soc, Incident Response, Malware analysts, Forensics etc. 
+
+So basically Threat Hunters will be looking for a potential point where our system or network is comprised i.e: Indicators of Compromise (IOC)
+
+In IOC we will be looking for curcials aspects where data and logs and files which can help us to identify the incident that has been already done.
+
+We have 2 Types of IOC's in general 
+ 
+ 1. Network Based 
+ 2. Host Based (System Based)
+ 
