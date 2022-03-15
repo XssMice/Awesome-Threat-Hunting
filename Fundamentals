@@ -13,3 +13,13 @@ We have 2 Types of IOC's in general
  1. Network Based 
  2. Host Based (System Based)
  
+In general we have 3 types of methodologies which is followed by most of the threat hunters.
+
+ 1. Intel Based: Here We will be using sources from threat intelligence. So here we will be collecting all the latest indicators, data, ip, logs.
+                 In Intel based hunting we can also integrate our process with siem tools and threat intelligence tools. We will be more focusing on more intelligence data.
+                 
+ 2. Hypotheses Based: Here Threat Hunters will looking into analysis of network and host based artifacts and they will be doing risk assessment and vulnerability scanning.
+ 
+ 3. Hybrid Based: Here we will be combining both above of the hunting and customize the hunt. This hunting will be dependable on requirement.
+ 
+ 
